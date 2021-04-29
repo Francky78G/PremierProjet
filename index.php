@@ -60,7 +60,7 @@ $lotteryDraw = getLotteryDraw();
     </header>
 
     <main>
-        <p>Le résultat du tirage de la loterie 3WAcademy est  : <em><?php echo implode(', ', $lotteryDraw); ?></em> felicitation</p>
+        <p>Le résultat du tirage de la loterie 3WAcademy est  : <em><?php echo implode(', ', $lotteryDraw); ?></em> felicitation  test 2</p>
     </main>
 </body>
 </html>
